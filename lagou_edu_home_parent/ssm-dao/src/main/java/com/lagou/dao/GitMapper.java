@@ -12,8 +12,8 @@ public interface GitMapper {
     public void add6();
     public void add7();
     public void add8();
-    public void add9();
-    public void add991();
-    public void add99911();
-    public void add9999111();
+    public void add91111();
+    public void add9911111();
+    public void add9991111111();
+    public void add999911111111();
 }
