@@ -6,6 +6,9 @@ public interface GitMapper {
     public void add3();
     public void add4();
     public void add5();
+    public void add1();
+    public void add11();
+    public void add111();
     public void add6();
     public void add7();
     public void add8();
